@@ -1,6 +1,8 @@
 # Hooternut-D2-Wishlist
 Hooternut's weapon rolls wishlist for Destiny 2. Made for Destiny Item Manager.
 
+Updated as of Season of the Witch
+
 TO ADD TO DIM:
 1. Open DIM settings.
 2. Navigate to the Wishlist tab.
