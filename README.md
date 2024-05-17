@@ -1,7 +1,7 @@
 # Hooternut-D2-Wishlist
 Hooternut's weapon rolls wishlist for Destiny 2. Made for Destiny Item Manager.
 
-Updated as of Season of the Wish + Warlord's Ruin
+Updated as of Season of the Wish + Into the Light
 
 TO ADD TO DIM:
 1. Open DIM settings.
